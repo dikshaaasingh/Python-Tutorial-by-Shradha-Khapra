@@ -26,16 +26,3 @@ print("OR operator:", val1 or val2)
 print("AND operator:", (a==b) and (a>b))
 print("OR operator:", (a==b) or (a>=b))
 
-OUTPUT: 
-False
-True
-False
-True
-AND operator: True
-OR operator: True
-AND operator: False
-OR operator: True
-AND operator: False
-OR operator: False
-AND operator: False
-OR operator: True
