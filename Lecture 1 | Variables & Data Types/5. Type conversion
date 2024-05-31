@@ -1,0 +1,18 @@
+Data type conversion automatically in Type conversion
+a=2 #int
+b=4.25 #float
+
+Type Casting: Data type conversion manually
+sum=a+b #Python automatically converts int value into float [2.0+4.25]
+print(sum)
+#Let a= "2" and b =4.45 
+#ERROR [we cannot add string type to float or integer]
+a=int("2") ##To change the string type into integer
+b=4.25 #float
+
+sum=a+b 
+print(sum)
+
+c=3.14
+c= str(c)
+print(type(c))
