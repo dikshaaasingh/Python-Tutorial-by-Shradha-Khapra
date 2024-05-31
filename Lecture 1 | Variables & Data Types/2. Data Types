@@ -20,12 +20,3 @@ print(age2)
 print(type(name))
 print(type(age)) #integer can be +ve or -ve value
 print(type(marks))
-
-OUTPUT:
-Diksha
-23
-97.97
-23
-<class 'str'>
-<class 'int'>
-<class 'float'>
