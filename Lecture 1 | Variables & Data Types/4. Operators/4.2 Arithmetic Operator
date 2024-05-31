@@ -9,10 +9,3 @@ print(a/b)
 print(a%b) #Remainder
 print(a**b) #Power operator 5^2
 
-OUTPUT:
-7
-3
-10
-2.5
-1
-25
