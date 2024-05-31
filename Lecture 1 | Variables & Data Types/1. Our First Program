@@ -1,0 +1,12 @@
+print("My name is Diksha Singh")
+print("I am 23 years old.")
+print("My name is Diksha Singh.", "I am 24 years old.")
+print(45)
+print(45+55)
+
+OUTPUT:
+My name is Diksha Singh
+I am 23 years old.
+My name is Diksha Singh. I am 24 years old.
+45
+100
