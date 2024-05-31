@@ -29,3 +29,8 @@ a= None
 print(type(age))
 print(type(old))
 print(type(a))
+
+OUTPUT:
+<class 'int'>
+<class 'bool'>
+<class 'NoneType'>
