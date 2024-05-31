@@ -1,0 +1,16 @@
+a= 15
+b= 13
+sum= a+b #Addition
+print(sum)
+diff= a-b
+print(diff) #Subtraction
+
+------------------------------------------------------------
+TYPES OF OPERATORS IN PYTHON
+Arithmetic Operators ( + , - , * , / , % , ** )
+
+Relational / Comparison Operators ( == , != , > , < , >= , <= )
+
+Assignment Operators ( = , +=, -= , *= , /= , %= , **= )
+
+Logical Operators ( not , and , or )
