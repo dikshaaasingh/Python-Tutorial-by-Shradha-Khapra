@@ -21,3 +21,11 @@ OUTPUT:
 My name is: Diksha
 My age is 23
 My marks are 97.97
+----------------------------------------------------------------------------------
+age=23
+old= False #F of the false should be in uppercase
+a= None
+#to print the data type of the above variables
+print(type(age))
+print(type(old))
+print(type(a))
